@@ -18,7 +18,7 @@ class NewsFeedApp extends StatelessWidget {
 }
 
 class NewsFeedPage extends StatelessWidget {
-  final int tileCount = 10; // Number of tiles to display
+  final int tileCount = 10;
 
   @override
   Widget build(BuildContext context) {
